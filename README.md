@@ -13,7 +13,7 @@
 \
 [![Gmail Badge](https://img.shields.io/badge/-tejaswivelaga@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tejaswivelaga@gmail.com)](mailto:tejaswivelaga@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswi-velaga-01a29a205/)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejaswi2907)
+
 
 
 Languades and Technologies:
