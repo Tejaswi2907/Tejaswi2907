@@ -1,6 +1,8 @@
 ## Hey there! 👋
 
 #### I am Tejaswi, a Computer Science Undergrad at Amrita Vishwa Vidyapeetham, Coimbatore
+
+![](https://komarev.com/ghpvc/?username=Tejaswi2907&color=green)
 ---
 
 - I am currently learning Machine Learning, Data Science, NLP, App development, Big data, and Cloud
@@ -36,7 +38,6 @@ My stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswi2907&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=Tejaswi2907&color=green)
 
 
 
