@@ -1,12 +1,12 @@
 ## Hey there! 👋
 
-#### I am Tejaswi, a Computer Science Undergrad at Amrita Vishwa Vidyapeetham, Coimbatore
+#### I am Tejaswi, a Computer Science grad at University of Illinois, Chicago
 
 ![](https://komarev.com/ghpvc/?username=Tejaswi2907&color=green)
 ---
 
 - I am currently learning Machine Learning, Data Science, NLP, App development, Big data, and Cloud
-- I am looking to collaborate on App development / ML projects
+- I am looking to collaborate on Web development / ML projects
 
 
 \
@@ -14,7 +14,7 @@
 \
 \
 [![Gmail Badge](https://img.shields.io/badge/-tejaswivelaga@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tejaswivelaga@gmail.com)](mailto:tejaswivelaga@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswi-velaga-01a29a205/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswi-velaga/)
 
 
 
