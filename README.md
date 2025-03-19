@@ -4,9 +4,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Tejaswi2907&color=green)
 ---
-
-- I am currently learning Machine Learning, Data Science, NLP, App development, Big data, and Cloud
-- I am looking to collaborate on Web development / ML projects
+- Experienced Full Stack Developer with expertise in Java, Spring Boot, Angular, and Node.js
+- Passionate about AI-driven solutions, Full stack web development, Cloud Computing, and Kubernetes
+- Worked @OpenText
+- Amazon ML Summer School 2022 Scholar
 
 
 \
