@@ -1,6 +1,5 @@
-# Hey there! 👋
+# Hey there👋!  I am Tejaswi Velaga
 
-## I am Tejaswi Velaga!
 🎓 **MS in Computer Science** @ University of Illinois Chicago  
 💻 **Software Developer** | **AI** | **FullStack** | **Cloud**  
 ![](https://komarev.com/ghpvc/?username=Tejaswi2907&color=green)
@@ -29,7 +28,7 @@ Databases: MySQL, MongoDB, PostgreSQL
 ````
 ---
 
-My stats:
+
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejaswi2907&show_icons=true&theme=highcontrast)
 
