@@ -2,7 +2,7 @@
 
 ## I am Tejaswi Velaga!
 🎓 **MS in Computer Science** @ University of Illinois Chicago  
-💻 **Software Developer** | **AI ** | ** FullStack ** | ** Cloud **  
+💻 **Software Developer** | **AI** | **FullStack** | **Cloud**  
 ![](https://komarev.com/ghpvc/?username=Tejaswi2907&color=green)
 ---
 - Experienced Full Stack Developer with expertise in Java, Spring Boot, Angular, and Node.js
