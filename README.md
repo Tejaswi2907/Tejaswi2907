@@ -1,7 +1,8 @@
 ## Hey there! 👋
 
-#### I am Tejaswi, a Computer Science grad at University of Illinois, Chicago
-
+#### I am Tejaswi
+🎓 **MS in Computer Science** @ University of Illinois Chicago  
+💻 **Software Developer** | **AI & Cloud Enthusiast**  
 ![](https://komarev.com/ghpvc/?username=Tejaswi2907&color=green)
 ---
 - Experienced Full Stack Developer with expertise in Java, Spring Boot, Angular, and Node.js
@@ -19,12 +20,12 @@
 
 
 
-**Languages and Technologies:**
-
-Languages: Python, Java, JavaScript
-Frameworks: Spring Boot, TensorFlow, PyTorch, ReactJS
-Cloud & DevOps: Google Cloud, Docker, Kubernetes
-Databases: MySQL, MongoDB, PostgreSQL
+### 🚀 Tech Stack  
+```yaml
+Languages: Python, Java, JavaScript  
+Frameworks: Spring Boot, TensorFlow, PyTorch, ReactJS  
+Cloud & DevOps: Google Cloud, Docker, Kubernetes  
+Databases: MySQL, MongoDB, PostgreSQL  
 
 ---
 
