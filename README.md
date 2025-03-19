@@ -22,8 +22,8 @@
 
 ### 🚀 Tech Stack  
 ```yaml
-Languages: Python, Java, JavaScript  
-Frameworks: Spring Boot, TensorFlow, PyTorch, ReactJS  
+Languages: Python, Java, JavaScript, TypeScript  
+Frameworks: Spring Boot, TensorFlow, PyTorch, ReactJS, AngularJS  
 Cloud & DevOps: Google Cloud, Docker, Kubernetes  
 Databases: MySQL, MongoDB, PostgreSQL  
 ````
