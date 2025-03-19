@@ -1,6 +1,6 @@
-## Hey there! 👋
+# Hey there! 👋
 
-#### I am Tejaswi
+## I am Tejaswi
 🎓 **MS in Computer Science** @ University of Illinois Chicago  
 💻 **Software Developer** | **AI & Cloud Enthusiast**  
 ![](https://komarev.com/ghpvc/?username=Tejaswi2907&color=green)
@@ -26,7 +26,7 @@ Languages: Python, Java, JavaScript
 Frameworks: Spring Boot, TensorFlow, PyTorch, ReactJS  
 Cloud & DevOps: Google Cloud, Docker, Kubernetes  
 Databases: MySQL, MongoDB, PostgreSQL  
-
+````
 ---
 
 My stats:
